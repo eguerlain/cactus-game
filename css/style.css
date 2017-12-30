@@ -1,0 +1,14 @@
+html, body{
+	margin: 0;
+	background-color: rgb(249,249,249);
+}
+
+div{
+    display: flex;
+    min-height: 100vh;
+}
+
+canvas{
+    margin: auto;
+    background-color: beige;
+}
