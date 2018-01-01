@@ -16,3 +16,5 @@ You might obtain bonus after a while. Activate them by typing their name.
 - Money: Adds 100 points to your score
 - Lunar: Jump as if you were on the moon
 - Jetpack: Press up arrow and/or space bar repeatedly to start flying in the clouds!
+
+Refresh the web page when the game is over.
