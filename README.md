@@ -1,6 +1,8 @@
 # cactus-game
 Recreated the "No Internet connexion" Chrome web browser game
 
+[Play here](https://eguerlain.github.io/cactus-game/)
+
 ## How to play
 
 Launch the game by opening the game.html file in a web browser.
