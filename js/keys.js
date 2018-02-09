@@ -29,7 +29,7 @@ function checkKey(e) {
         if(BONUS) abortBonus();
     }
     
-    // Traitement du keyHistory pour les cheats
+    // keyHistory processed to maybe run a cheat code
     if(BONUS && BONUS.virgin){
         keyHistory.push(e.keyCode);
         if(keyHistory.length >= BONUS.length){
