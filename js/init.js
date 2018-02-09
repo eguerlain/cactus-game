@@ -5,7 +5,7 @@ var FIELD = {
     GRAVITY: 9.81
 };
 
-// ####### PERSO
+// ####### PERSO (CHARACTER)
 var PERSO = {
     SIZE: 10,
     X: 170,
